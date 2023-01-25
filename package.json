@@ -1,0 +1,21 @@
+{
+  "name": "recolector-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "recolector": "recolector-web.bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "ddosify": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
